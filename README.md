@@ -59,7 +59,7 @@
 
 
 ## 🍻 About Us
-|<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/.png" width="80">|<img src="https://github.com/.png" width="80">|<img src="https://github.com/.png" width="80">|
+|<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/ggurugigi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
 |:---:|:---:|:---:|:---:|
-|[G-Nan](https://github.com/G-Nan)|[](https://github.com/)|[](https://github.com/)|[](https://github.com/)|
-|수학, AI||||
+|[G-Nan](https://github.com/G-Nan)|[cherry-kiwi](https://github.com/cherry-kiwi)|[ggurugigi](https://github.com/ggurugigi)|[akrehd2](https://github.com/akrehd2)|
+|수학, 통계학|게임소프트웨어|화학, 컴퓨터공학|게임소프트웨어|
