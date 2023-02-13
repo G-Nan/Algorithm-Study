@@ -7,9 +7,9 @@
 
 - 기간 : 2023.02.13 ~
 - 장소 : Google Meet / Face to Face 
-- 시간 : 
+- 시간 : 매주 수요일 20:00 ~ 21:00
 - 참고 사이트 : [프로그래머스](https://programmers.co.kr/), [백준](https://www.acmicpc.net/)
-- 구성원 : 
+- 구성원 : G-Nan, cherry-kiwi, ggurugigi, akrehd2
 
 
 
@@ -61,12 +61,12 @@
   </tr>
   <tr>
     <td>0주차</td>
-    <td colspan="4"><link href="https://school.programmers.co.kr/learn/courses/30/lessons/120923" rel="stylesheet">, <link href="[main.css](https://school.programmers.co.kr/learn/courses/30/lessons/120923)" rel="stylesheet"></td>
+    <td colspan="4">
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120923">연속된 수의 합</a>, 
+    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644">두 개 뽑아서 더하기</a>
+    </td>
   </tr>
 </table>
-
-[연속된수의합]
-[두개뽑아서더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
 
 #### 1차 : 코딩테스트 입문 (Programmers)
 |주차|G-Nan|cherry-kiwi|ggurugigi|akrehd2|
