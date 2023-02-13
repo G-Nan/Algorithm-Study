@@ -49,6 +49,25 @@
   - 왜 이렇게 풀었는지 궁금한 부분
 
 ## 📚 Report
+
+#### 0차 : OT (연습문제)
+<table>
+  <tr>
+    <td>주차</td>
+    <td>G-Nan</td>
+    <td>cherry-kiwi</td>
+    <td>ggurugigi</td>
+    <td>akrehd2</td>
+  </tr>
+  <tr>
+    <td>0주차</td>
+    <td colspan="4"><link href="https://school.programmers.co.kr/learn/courses/30/lessons/120923" rel="stylesheet">, <link href="[main.css](https://school.programmers.co.kr/learn/courses/30/lessons/120923)" rel="stylesheet"></td>
+  </tr>
+</table>
+
+[연속된수의합]
+[두개뽑아서더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
+
 #### 1차 : 코딩테스트 입문 (Programmers)
 |주차|G-Nan|cherry-kiwi|ggurugigi|akrehd2|
 |:---:|:---:|:---:|:---:|:---:|
@@ -56,6 +75,8 @@
 |2주차||||
 |3주차||||
 |4주차||||
+
+
 
 
 ## 🍻 About Us
