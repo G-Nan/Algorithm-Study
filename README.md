@@ -17,7 +17,7 @@
 ## 🌳 Rules
 
 ### 스터디
-- 마이크, 카메라 On
+- 마이크 On
 - 적극적인 참여와 상대방에 대한 존중
 
 ### 진행 방식
@@ -39,7 +39,7 @@
   - Programmers/유저명/폴더명/문제명.py
   
 - 백준
-  - Baekjoon//폴더명/문제번호_문제명.py
+  - Baekjoon/유저명/폴더명/문제번호_문제명.py
 
 ## 🍀 Option
 
@@ -71,7 +71,7 @@
 #### 1차 : 코딩테스트 입문 (Programmers)
 |주차|G-Nan|cherry-kiwi|ggurugigi|akrehd2|
 |:---:|:---:|:---:|:---:|:---:|
-|1주차||||
+|1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|
 |2주차||||
 |3주차||||
 |4주차||||
