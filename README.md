@@ -22,7 +22,7 @@
 
 ### 진행 방식
 - 매주 각자 한 문제씩 선정합니다.
-- 다른 구성원의 문제를 포함하여 총 4문제를 풀어옵니다.
+- 다른 구성원의 문제를 포함하여 총 3문제를 풀어옵니다.
 - 자신이 선택한 문제를 다른 팀원들이 이해할 수 있게 풀이와 설명을 해줍니다.
 
 ### PR 및 Commit
@@ -69,18 +69,18 @@
 </table>
 
 #### 1차 : 코딩테스트 입문 (Programmers)
-|주차|G-Nan|cherry-kiwi|ggurugigi|akrehd2|
-|:---:|:---:|:---:|:---:|:---:|
-|1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|
-|2주차||||
-|3주차||||
-|4주차||||
+|주차|G-Nan|cherry-kiwi|akrehd2|
+|:---:|:---:|:---:|:---:|
+|1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|
+|2주차|||
+|3주차|||
+|4주차|||
 
 
 
 
 ## 🍻 About Us
-|<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/ggurugigi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
-|:---:|:---:|:---:|:---:|
-|[G-Nan](https://github.com/G-Nan)|[cherry-kiwi](https://github.com/cherry-kiwi)|[ggurugigi](https://github.com/ggurugigi)|[akrehd2](https://github.com/akrehd2)|
-|수학, 통계학|게임소프트웨어|화학, 컴퓨터공학|게임소프트웨어|
+|<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
+|:---:|:---:|:---:|
+|[G-Nan](https://github.com/G-Nan)|[cherry-kiwi](https://github.com/cherry-kiwi)|[akrehd2](https://github.com/akrehd2)|
+|수학, 통계학|게임소프트웨어|게임소프트웨어|
