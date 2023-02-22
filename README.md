@@ -56,7 +56,6 @@
     <td>주차</td>
     <td>G-Nan</td>
     <td>cherry-kiwi</td>
-    <td>ggurugigi</td>
     <td>akrehd2</td>
   </tr>
   <tr>
