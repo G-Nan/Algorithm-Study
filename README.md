@@ -70,7 +70,7 @@
 #### 1차 : 코딩테스트 입문 (Programmers)
 |주차|G-Nan|cherry-kiwi|akrehd2|
 |:---:|:---:|:---:|:---:|
-|1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|
+|1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|
 |2주차|||
 |3주차|||
 |4주차|||
