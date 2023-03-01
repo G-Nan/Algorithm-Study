@@ -19,6 +19,7 @@
 각 도시에 있는 주유소의 기름 가격과, 각 도시를 연결하는 도로의 길이를 입력으로 받아 
 제일 왼쪽 도시에서 제일 오른쪽 도시로 이동하는 최소의 비용을 계산하는 프로그램을 작성하시오.'''
 
-n=int(input()) #도시의 개수를 나타내는 정수 n
-m=map(int, input().split()) #인접한 두 도시를 연결하는 도로의 길이
-l=map(int, input().split()) #주유소의 리터당 가격
+city=int(input()) #도시의 개수를 나타내는 정수 n
+road=map(int, input().split()) #인접한 두 도시를 연결하는 도로의 길이
+price=map(int, input().split()) #주유소의 리터당 가격
+
