@@ -19,6 +19,33 @@ n을 d(n)의 생성자라고 한다. 위의 수열에서 33은 39의 생성자�
 '''
 
 n=1
-
+dn=1
+d=[] #d(n)을 담는 리스트
+#d(n): n과 n의 각 자리수를 더하는 함수
 def d(n):
+    if n<10: #한자리수
+        #d(1)=1+1=2
+        #d(2)=2+2=4
+        #d(3)=3+3=6
+        dn = n + n
+        d.extend(dn)
+
+    elif n<100: #두자리수
+        #d(10)=10+1+0=11
+        dn = n + dn//10 + dn%10
+        d.extend(dn)
+
+    elif n<1000: #세자리수
+        #d(123)=123+1+2+3=129
+        dn = n + dn//100 + dn//10 + dn%10
+        d.extend(dn)
+
+    elif n<=10000: #네자리수
+        dn = n + dn//1000 + dn//100 + dn//10 + dn%10
+        d.extend(dn)
     
+    return dn
+
+if __name__=="__main__":
+    numList=list(range(1,10000)) #10000까지의 정수 리스트
+    print([answer for answer in numList if numList not in d])
