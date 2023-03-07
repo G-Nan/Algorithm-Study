@@ -69,7 +69,7 @@
 |:---:|:---:|:---:|:---:|
 |1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|
 |2주차|[주유소](https://www.acmicpc.net/problem/13305)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[셀프 넘버](https://www.acmicpc.net/problem/4673)|
-|3주차||||
+|3주차|[터렛](https://www.acmicpc.net/problem/1002)|[행렬 덧셈](https://www.acmicpc.net/problem/2738)|[킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)|
 |4주차||||
 
 
