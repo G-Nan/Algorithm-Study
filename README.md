@@ -71,7 +71,7 @@
 |2주차|[주유소](https://www.acmicpc.net/problem/13305)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[셀프 넘버](https://www.acmicpc.net/problem/4673)|
 |3주차|[터렛](https://www.acmicpc.net/problem/1002)|[행렬 덧셈](https://www.acmicpc.net/problem/2738)|[킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)|
 |4주차|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[색종이](https://www.acmicpc.net/problem/2563)|
-
+|5주차|[당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)|[공 넣기](https://www.acmicpc.net/problem/10810)|[알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)|
 
 
 
