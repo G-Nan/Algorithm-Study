@@ -64,7 +64,8 @@
   </tr>
 </table>
 
-#### 1차 : 코딩테스트 연습 (Programmers, Baekjoon)
+#### 1차 : 코딩테스트 맛보기 (2023.02.13 ~ 2023.03.21)
+
 |주차|G-Nan|cherry-kiwi|akrehd2|
 |:---:|:---:|:---:|:---:|
 |1주차|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|
@@ -73,7 +74,12 @@
 |4주차|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[색종이](https://www.acmicpc.net/problem/2563)|
 |5주차|[당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)|[공 넣기](https://www.acmicpc.net/problem/10810)|[알고리즘 수업 - 알고리즘의 수행 시간 1](https://www.acmicpc.net/problem/24262)|
 
+#### 2차 : 시간 복잡도 (2023.03.22 ~ 2023.04.04)
 
+|주차|G-Nan|cherry-kiwi|akrehd2|
+|:---:|:---:|:---:|:---:|
+|6주차|[알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)|[알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)|
+|7주차|[알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24262)|[알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24262)|[알고리즘의 수행 시간 7](https://www.acmicpc.net/problem/24262)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
