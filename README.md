@@ -79,7 +79,7 @@
 |주차|G-Nan|cherry-kiwi|akrehd2|
 |:---:|:---:|:---:|:---:|
 |6주차|[알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)|[알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)|
-|7주차|[알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)|[알고리즘의 수행 시간 7](https://www.acmicpc.net/problem/24268)|
+|7주차|[알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)|[점근적 표기 1](https://www.acmicpc.net/problem/24313)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
