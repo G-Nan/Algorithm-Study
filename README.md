@@ -81,6 +81,13 @@
 |6주차|[알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)|[알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)|
 |7주차|[알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)|[점근적 표기 1](https://www.acmicpc.net/problem/24313)|
 
+#### 3차 : 문자열 (2023.04.19 ~ 2023.04.28) - [블로그](https://devjeong.com/algorithm/algorithm-1/) 참고
+
+|주차|G-Nan|cherry-kiwi|akrehd2|
+|:---:|:---:|:---:|:---:|
+|8주차|[알파벳 개수](https://www.acmicpc.net/problem/10808)|[펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)|[농구 경기](https://www.acmicpc.net/problem/1159)|
+|9주차||||
+
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
 |:---:|:---:|:---:|
