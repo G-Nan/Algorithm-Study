@@ -86,7 +86,7 @@
 |주차|G-Nan|cherry-kiwi|akrehd2|
 |:---:|:---:|:---:|:---:|
 |8주차|[알파벳 개수](https://www.acmicpc.net/problem/10808)|[펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)|[농구 경기](https://www.acmicpc.net/problem/1159)|
-|9주차||||
+|9주차|[ROT13](https://www.acmicpc.net/problem/11655)|[수학숙제](https://www.acmicpc.net/problem/2870)|[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
