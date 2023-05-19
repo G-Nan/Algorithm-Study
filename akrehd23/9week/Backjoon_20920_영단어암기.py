@@ -14,5 +14,7 @@ for _ in range(N):
         else:
             L[S] = 1
 
-print(*L, end="\n")
+L = sorted(L, key=lambda x: x)
+
+print(*L, sep="\n")
 
