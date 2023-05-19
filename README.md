@@ -88,7 +88,7 @@
 |8주차|[알파벳 개수](https://www.acmicpc.net/problem/10808)|[펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)|[농구 경기](https://www.acmicpc.net/problem/1159)|
 |9주차|[ROT13](https://www.acmicpc.net/problem/11655)|[수학숙제](https://www.acmicpc.net/problem/2870)|[영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)|
 |10주차|[수 이어 쓰기](https://www.acmicpc.net/problem/1515)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|
-|11주차|[타노스](https://www.acmicpc.net/problem/20310)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|[가회와 키워드](https://www.acmicpc.net/problem/22233)|
+|11주차|[타노스](https://www.acmicpc.net/problem/20310)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|[가희와 키워드](https://www.acmicpc.net/problem/22233)|
 
 ## 🍻 About Us
 |<img src="https://github.com/G-nan.png" width="80">|<img src="https://github.com/cherry-kiwi.png" width="80">|<img src="https://github.com/akrehd2.png" width="80">|
