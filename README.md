@@ -45,6 +45,10 @@
   - 이렇게 하면 더 좋을 것 같다고 생각하는 부분
   - 왜 이렇게 풀었는지 궁금한 부분
 
+- 참고 
+  - [시간복잡도](https://chancoding.tistory.com/43)
+  - [블로그](https://devjeong.com/algorithm/algorithm-1/)
+ 
 ## 📚 Report
 
 #### 0차 : OT (연습문제)
@@ -81,7 +85,7 @@
 |6주차|[알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)|[알고리즘의 수행 시간 3](https://www.acmicpc.net/problem/24264)|[알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)|
 |7주차|[알고리즘의 수행 시간 5](https://www.acmicpc.net/problem/24266)|[알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)|[점근적 표기 1](https://www.acmicpc.net/problem/24313)|
 
-#### 3차 : 문자열 (2023.04.19 ~ ) - [블로그](https://devjeong.com/algorithm/algorithm-1/) 참고
+#### 3차 : 문자열 (2023.04.19 ~ )
 
 |주차|G-Nan|cherry-kiwi|akrehd2|
 |:---:|:---:|:---:|:---:|
