@@ -1,0 +1,26 @@
+#a e i o u 하나는 반드시 포함
+#모음 or 자음 3개 연속 안됨
+#같은 글자 연속 두번 안됨(ee, oo 허용)
+
+v='aeiou'
+pw=input()
+count=0
+
+for password in pw:
+    if password not in v:
+        print("<%s> is not acceptable." %pw)
+    
+    if v in pw:
+        count+=1
+
+        if count>=3:
+            print("<%s> is not acceptable." %pw)
+    
+    if pw[password] == pw[password+1]:
+        print("<%s> is not acceptable." %pw) 
+
+        if password == 'e' or password == 'o':
+            print("<%s> is acceptable." %pw)
+    
+    if pw == 'end':
+        break
